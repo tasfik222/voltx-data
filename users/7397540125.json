@@ -4,8 +4,10 @@
   "balance": 0,
   "total_codes": 0,
   "created_at": "2026-11-11T10:28:00+00:00",
-  "updated_at": "2026-11-11T10:28:00+00:00",
-  "rev": 1,
+  "updated_at": "2026-11-12T08:09:45+00:00",
+  "rev": 2,
   "history": [],
-  "credited_otp_ids": []
+  "credited_otp_ids": [],
+  "unit": "paisa",
+  "balance_taka": "0.00"
 }
